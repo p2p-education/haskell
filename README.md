@@ -4,7 +4,11 @@
 
 ## Install Haskell Platform
 
+Download and Install Haskell Platform 8.0~   
+
 ## Install git
+
+Downlaod and Install Git 
 
 ## Download this repo and build
 
@@ -14,7 +18,7 @@ $ cd haskell && cd GL
 $ make clean && ghc arrow.hs
 ~~~
 
-## execution
+## Execute !!
 
 just type
 
